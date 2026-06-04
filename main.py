@@ -1,0 +1,1 @@
+print("iniciando o meu projeto...")
